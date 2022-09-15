@@ -1,0 +1,1 @@
+This is a certification project for Responsive Web Design Certification by freeCodeCamp.org
